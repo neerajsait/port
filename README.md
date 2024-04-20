@@ -1,2 +1,2 @@
 # port
-my port folio using basic html and css
+my portfolio using basic html and css
